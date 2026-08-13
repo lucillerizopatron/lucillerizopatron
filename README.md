@@ -2,6 +2,8 @@
 
 # Hi, I’m Lucy! 🌼
 
-I am a fullstack software engineer and third-year student studying at Princeton University and ETH Zürich.
+I’m a full-stack software engineer and a third-year student at Princeton University and ETH Zürich.
+
+Explore my portfolio: [lucillerizopatron.vercel.app](https://lucillerizopatron.vercel.app)
 
 </div>
