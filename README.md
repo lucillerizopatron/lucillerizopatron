@@ -2,7 +2,7 @@
 
 # Hi, I’m Lucy! 🌼
 
-I’m a full-stack software engineer and a third-year student at Princeton University and ETH Zürich.
+I’m a Full-Stack Software Engineer at Sargent & Lundy and a third-year CS Major studying at Princeton University and ETH Zürich.
 
 Explore my portfolio: [lucillerizopatron.vercel.app](https://lucillerizopatron.vercel.app)
 
